@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Leisure]]></title>
-  <link href="http://vzhang.github.io/atom.xml" rel="self"/>
-  <link href="http://vzhang.github.io/"/>
-  <updated>2014-02-28T23:56:46+08:00</updated>
-  <id>http://vzhang.github.io/</id>
+  <link href="blog.devzhang.com/atom.xml" rel="self"/>
+  <link href="blog.devzhang.com/"/>
+  <updated>2014-03-01T00:06:45+08:00</updated>
+  <id>blog.devzhang.com/</id>
   <author>
     <name><![CDATA[Leisure]]></name>
     

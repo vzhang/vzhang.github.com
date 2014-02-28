@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://vzhang.github.io/sitemap.xml 
+Sitemap: blog.devzhang.com/sitemap.xml 
